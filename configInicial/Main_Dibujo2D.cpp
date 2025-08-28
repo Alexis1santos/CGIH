@@ -140,7 +140,8 @@ int main() {
 
 		// Eje 3:triangulo hacia abajo
 		glDrawArrays(GL_TRIANGLES, 0, 3);
-		glDrawArrays(GL_TRIANGLES, 1, 3);
+		
+
 		// Eje 4:cuadrado completo
 		/*glDrawElements(GL_TRIANGLES, 6,GL_UNSIGNED_INT,0);*/
 
